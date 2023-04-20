@@ -2,4 +2,4 @@
 
 <iframe src="ASR.html" height="500" width="500"></iframe>
 
-Die Karte [ASR.html](map.html).
+Die Karte [ASR.html](ASR.html).
