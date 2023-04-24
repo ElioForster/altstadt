@@ -4,7 +4,7 @@ plugins:
 # Titel und Logo für dieses Theme
 title: Rundgang Altstadt Frauenfeld
 description: Diese Seite dient als Guide für den Rundgang durch die Stadt Frauenfeld, da sie über eine Interaktive Karte verfügt, auf welcher alle Punkte markiert sind und mit einer kurzen Beschreibung ausgestattet sind.
-logo: ./logo.jpeg
+logo: ./https://github.com/ElioForster/altstadt/blob/main/IMG_4671.PNG
 
 github:
   zip_url: http://Stadtrundgang_Frauenfeld.com/download.zip
