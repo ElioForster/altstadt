@@ -1,6 +1,6 @@
 ### Karte
 
-<iframe src="ASR (1).html" height="60" width="650"></iframe>
+<iframe src="ASR (1).html" height="600" width="650"></iframe>
 
 Die Karte [ASR (1).html](ASR (1).html).
 
