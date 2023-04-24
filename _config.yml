@@ -2,7 +2,8 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
 # Titel und Logo für dieses Theme
-title: Vorlage EF
+title: Rundgang Altstadt Frauenfeld
+description: Diese Seite dient als Guide für den Rundgang durch die Stadt Frauenfeld, da sie über eine Interaktive Karte verfügt, auf welcher alle Punkte markiert sind und mit einer kurzen Beschreibung ausgestattet sind.
 logo: ./logo.jpeg
 
 
