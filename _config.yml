@@ -1,6 +1,8 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes-time-machine-v0.2.0-2-g3058bb3.tar
 plugins:
 - jekyll-remote-theme
 # Titel und Logo für dieses Theme
 title: Vorlage EF
 logo: ./logo.jpeg
+
+
